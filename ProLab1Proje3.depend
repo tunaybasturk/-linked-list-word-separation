@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1609368034 source:c:\users\pc\desktop\Üniversite\java dili ve Üniversite\prolab1proje3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
+1609368034 source:c:\users\pc\desktop\prolab1proje3\prolab1proje3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
